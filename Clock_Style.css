@@ -1,0 +1,26 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90%;
+}
+body{
+    background-color: rgb(227, 250, 250);
+}
+h1{
+    text-align: center;
+    filter: drop-shadow(5px 5px 10px rgb(28, 84, 77));
+}
+.str{
+    font-size: 50px;
+    font-weight: 800;
+    background-color: orange;
+    height: 100px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 24px;
+    filter: drop-shadow(5px 5px 40px orange);
+    cursor: default;
+}
